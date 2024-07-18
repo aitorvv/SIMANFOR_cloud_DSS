@@ -1,0 +1,86 @@
+n_scnr,Edad_de_escenario,Accion,Tipo_de_corta,Criterio_de_corta,Intensidad_de_la_corta
+scnr_0,22,Inicialización,-,-,-
+scnr_0,27,Ejecución,-,-,-
+scnr_0,32,Ejecución,-,-,-
+scnr_0,37,Ejecución,-,-,-
+scnr_0,42,Ejecución,-,-,-
+scnr_0,47,Ejecución,-,-,-
+scnr_0,52,Ejecución,-,-,-
+scnr_0,57,Ejecución,-,-,-
+scnr_0,62,Ejecución,-,-,-
+scnr_0,67,Ejecución,-,-,-
+scnr_0,72,Ejecución,-,-,-
+scnr_0,77,Ejecución,-,-,-
+scnr_0,82,Ejecución,-,-,-
+scnr_1,22,Inicialización,-,-,-
+scnr_1,22,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_1,27,Ejecución,-,-,-
+scnr_1,32,Ejecución,-,-,-
+scnr_1,32,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_1,37,Ejecución,-,-,-
+scnr_1,42,Ejecución,-,-,-
+scnr_1,42,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_1,47,Ejecución,-,-,-
+scnr_1,52,Ejecución,-,-,-
+scnr_1,52,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_1,57,Ejecución,-,-,-
+scnr_1,62,Ejecución,-,-,-
+scnr_1,62,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_1,67,Ejecución,-,-,-
+scnr_1,72,Ejecución,-,-,-
+scnr_1,72,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_1,77,Ejecución,-,-,-
+scnr_1,82,Ejecución,-,-,-
+scnr_2,22,Inicialización,-,-,-
+scnr_2,22,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_2,27,Ejecución,-,-,-
+scnr_2,32,Ejecución,-,-,-
+scnr_2,37,Ejecución,-,-,-
+scnr_2,37,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_2,42,Ejecución,-,-,-
+scnr_2,47,Ejecución,-,-,-
+scnr_2,52,Ejecución,-,-,-
+scnr_2,52,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_2,57,Ejecución,-,-,-
+scnr_2,62,Ejecución,-,-,-
+scnr_2,67,Ejecución,-,-,-
+scnr_2,67,Corta,Corta por lo bajo,Área Basimétrica,25
+scnr_2,72,Ejecución,-,-,-
+scnr_2,77,Ejecución,-,-,-
+scnr_2,82,Ejecución,-,-,-
+scnr_3,22,Inicialización,-,-,-
+scnr_3,22,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_3,27,Ejecución,-,-,-
+scnr_3,32,Ejecución,-,-,-
+scnr_3,32,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_3,37,Ejecución,-,-,-
+scnr_3,42,Ejecución,-,-,-
+scnr_3,42,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_3,47,Ejecución,-,-,-
+scnr_3,52,Ejecución,-,-,-
+scnr_3,52,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_3,57,Ejecución,-,-,-
+scnr_3,62,Ejecución,-,-,-
+scnr_3,62,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_3,67,Ejecución,-,-,-
+scnr_3,72,Ejecución,-,-,-
+scnr_3,72,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_3,77,Ejecución,-,-,-
+scnr_3,82,Ejecución,-,-,-
+scnr_4,22,Inicialización,-,-,-
+scnr_4,22,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_4,27,Ejecución,-,-,-
+scnr_4,32,Ejecución,-,-,-
+scnr_4,37,Ejecución,-,-,-
+scnr_4,37,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_4,42,Ejecución,-,-,-
+scnr_4,47,Ejecución,-,-,-
+scnr_4,52,Ejecución,-,-,-
+scnr_4,52,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_4,57,Ejecución,-,-,-
+scnr_4,62,Ejecución,-,-,-
+scnr_4,67,Ejecución,-,-,-
+scnr_4,67,Corta,Corta por lo alto,Área Basimétrica,25
+scnr_4,72,Ejecución,-,-,-
+scnr_4,77,Ejecución,-,-,-
+scnr_4,82,Ejecución,-,-,-

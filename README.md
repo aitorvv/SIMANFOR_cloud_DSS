@@ -1,2 +1,98 @@
-# SIMANFOR_cloud_DSS
-Original data, code and results of: Forest stand simulations in the cloud: use of the IBERO growth model in the SIMANFOR Decision Support System
+# SIMANFOR cloud DSS
+
+*A repository with the original data, code and results of the scientific article titled:*
+
+***Forest stand simulations in the cloud: use of the IBERO growth model in the SIMANFOR Decision Support System ***
+
+---
+
+# Forest stand simulations in the cloud: use of the IBERO growth model in the SIMANFOR Decision Support System 
+
+:open_file_folder: Repository DOI: 
+<!---[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12584398.svg)](https://doi.org/10.5281/zenodo.12584398)
+
+:book: Article DOI: 
+--->
+
+---
+
+## :book: Abstract
+
+Abstract: 
+
+---
+
+## :file_folder: Repository Contents
+
+- :floppy_disk: **1_data**:
+            
+    - :deciduous_tree: tree and plot data obtained from [iuFOR](https://iufor.uva.es) ([Quantitative silviculture group](https://github.com/iuFOR-QuantitativeForestry)) experimental plots
+
+
+- :seedling: **2_simanfor** contains inputs and outputs for all the simulations developed with [SIMANFOR](www.simanfor.es). Check out them! There are a lot of metrics unexplored in this paper :wood: :maple_leaf:
+
+- :computer: **3_code**:
+
+
+| Script Name     | Purpose               | Input                    | Output                   |
+|-----------------|-----------------------|--------------------------|--------------------------|
+| `0.IBERO_a_SIMANFOR.r`| Uses the original tree and plot data to adapt them to the SIMANFOR requirements| `1_data/0_raw/*` | `2_simanfor/input/*`
+| `1.0_group_simanfor_results.r`| Reads all the SIMANFOR outputs, complete the calculations and organize them to be graph | `2_simanfor/output/*` | `1_data/simulation_results.RData` |
+| `1.1_graph_simanfor_restuls.r` | Code to make graphs of all the interesting variables | `1_data/1_results/simulation_results.RData` | `4_figures/simulation_graphs/*` |
+| `2.0_location_map.r` | Code to draw a map with the plot locations | `1_data/simulation_results.RData` | `4_figures/plot_map_Spain.png` |
+| `2.1_summary_scenarios.r` | Code to summarise all the scenarios (forest management alternatives) | `2_simanfor/output/*` | `4_figures/summary_scenarios*` |
+
+- :bar_chart: **4_figures**: graphs and figures used on the article
+
+- :books: **5_bibliography**: recopilation of all the references used on the article
+
+---
+
+## :information_source: License
+
+The content of this repository is under the [MIT license](./LICENSE).
+
+---
+
+## :link: About the authors:
+
+#### Felipe Bravo Oviedo:
+
+[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo) \\
+[ORCID](https://orcid.org/0000-0001-7348-6695) \\
+[Researchgate](https://www.researchgate.net/profile/Felipe-Bravo-11) \\
+[LinkedIn](https://www.linkedin.com/in/felipebravooviedo) \\
+[Twitter](https://twitter.com/fbravo_SFM) \\
+[UVa](https://portaldelaciencia.uva.es/investigadores/181874/detalle)
+
+#### Aitor Vázquez Veloso:
+
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv) \\
+[ORCID](https://orcid.org/0000-0003-0227-506X) \\
+[Researchgate](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso) \\
+[LinkedIn](https://www.linkedin.com/in/aitorvazquezveloso/) \\
+[Twitter](https://twitter.com/aitorvv) \\
+[UVa](https://portaldelaciencia.uva.es/investigadores/178830/detalle)
+
+#### Angel Cristóbal Ordóñez Alonso:
+
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo) \\
+[ORCID](https://orcid.org/0000-0001-5354-3760) \\
+[Researchgate](https://www.researchgate.net/profile/Cristobal-Ordonez-Alonso) \\
+[LinkedIn](https://www.linkedin.com/in/cristobal-ordonez-b6a97244/) \\
+[Twitter](https://twitter.com/OrdonezAC) \\
+[UVa](https://portaldelaciencia.uva.es/investigadores/181312/detalle)
+
+#### Spyridon Michalakopoulos
+
+[![](https://github.com/spirosmichalak.png?size=50)](https://github.com/spirosmichalak) \\
+[ORCID](https://orcid.org/0000-0002-6262-8982) \\
+[Researchgate](https://www.researchgate.net/profile/Spiros-Michalakopoulos) \\
+[LinkedIn](https://www.linkedin.com/in/spiros-michalakopoulos/?originalSubdomain=es) \\
+[Twitter](https://twitter.com/spirosmichalak) \\
+[UVa](https://portaldelaciencia.uva.es/investigadores/988349/detalle)
+
+---
+
+
+[SIMANFOR cloud DSS](https://github.com/aitorvv/SIMANFOR_cloud_DSS) 

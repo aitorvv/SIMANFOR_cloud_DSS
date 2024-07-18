@@ -1,0 +1,86 @@
+Scenario,Age (years),Action,Harvest type,Harvest criteria,Harvest intensity (%)
+0,22,Initialization,-,-,-
+0,27,Projection,-,-,-
+0,32,Projection,-,-,-
+0,37,Projection,-,-,-
+0,42,Projection,-,-,-
+0,47,Projection,-,-,-
+0,52,Projection,-,-,-
+0,57,Projection,-,-,-
+0,62,Projection,-,-,-
+0,67,Projection,-,-,-
+0,72,Projection,-,-,-
+0,77,Projection,-,-,-
+0,82,Projection,-,-,-
+1,22,Initialization,-,-,-
+1,22,Thinning,Thinning from below,Basal area,25
+1,27,Projection,-,-,-
+1,32,Projection,-,-,-
+1,32,Thinning,Thinning from below,Basal area,25
+1,37,Projection,-,-,-
+1,42,Projection,-,-,-
+1,42,Thinning,Thinning from below,Basal area,25
+1,47,Projection,-,-,-
+1,52,Projection,-,-,-
+1,52,Thinning,Thinning from below,Basal area,25
+1,57,Projection,-,-,-
+1,62,Projection,-,-,-
+1,62,Thinning,Thinning from below,Basal area,25
+1,67,Projection,-,-,-
+1,72,Projection,-,-,-
+1,72,Thinning,Thinning from below,Basal area,25
+1,77,Projection,-,-,-
+1,82,Projection,-,-,-
+2,22,Initialization,-,-,-
+2,22,Thinning,Thinning from below,Basal area,25
+2,27,Projection,-,-,-
+2,32,Projection,-,-,-
+2,37,Projection,-,-,-
+2,37,Thinning,Thinning from below,Basal area,25
+2,42,Projection,-,-,-
+2,47,Projection,-,-,-
+2,52,Projection,-,-,-
+2,52,Thinning,Thinning from below,Basal area,25
+2,57,Projection,-,-,-
+2,62,Projection,-,-,-
+2,67,Projection,-,-,-
+2,67,Thinning,Thinning from below,Basal area,25
+2,72,Projection,-,-,-
+2,77,Projection,-,-,-
+2,82,Projection,-,-,-
+3,22,Initialization,-,-,-
+3,22,Thinning,Thinning from above,Basal area,25
+3,27,Projection,-,-,-
+3,32,Projection,-,-,-
+3,32,Thinning,Thinning from above,Basal area,25
+3,37,Projection,-,-,-
+3,42,Projection,-,-,-
+3,42,Thinning,Thinning from above,Basal area,25
+3,47,Projection,-,-,-
+3,52,Projection,-,-,-
+3,52,Thinning,Thinning from above,Basal area,25
+3,57,Projection,-,-,-
+3,62,Projection,-,-,-
+3,62,Thinning,Thinning from above,Basal area,25
+3,67,Projection,-,-,-
+3,72,Projection,-,-,-
+3,72,Thinning,Thinning from above,Basal area,25
+3,77,Projection,-,-,-
+3,82,Projection,-,-,-
+4,22,Initialization,-,-,-
+4,22,Thinning,Thinning from above,Basal area,25
+4,27,Projection,-,-,-
+4,32,Projection,-,-,-
+4,37,Projection,-,-,-
+4,37,Thinning,Thinning from above,Basal area,25
+4,42,Projection,-,-,-
+4,47,Projection,-,-,-
+4,52,Projection,-,-,-
+4,52,Thinning,Thinning from above,Basal area,25
+4,57,Projection,-,-,-
+4,62,Projection,-,-,-
+4,67,Projection,-,-,-
+4,67,Thinning,Thinning from above,Basal area,25
+4,72,Projection,-,-,-
+4,77,Projection,-,-,-
+4,82,Projection,-,-,-
