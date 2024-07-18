@@ -8,11 +8,7 @@
 
 # Forest stand simulations in the cloud: use of the IBERO growth model in the SIMANFOR Decision Support System 
 
-:open_file_folder: Repository DOI: 
-<!---[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12584398.svg)](https://doi.org/10.5281/zenodo.12584398)
-
-:book: Article DOI: 
---->
+:open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/713296626.svg)](https://zenodo.org/doi/10.5281/zenodo.12772484)
 
 ---
 
