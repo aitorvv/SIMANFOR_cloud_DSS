@@ -2,7 +2,7 @@
 
 *A repository with the original data, code and results of the scientific article titled:*
 
-***SIMANFOR cloud Decision Support System: structure, content, and applications ***
+***SIMANFOR cloud Decision Support System: structure, content, and applications***
 
 ---
 
