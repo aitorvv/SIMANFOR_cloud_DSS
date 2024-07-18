@@ -2,11 +2,11 @@
 
 *A repository with the original data, code and results of the scientific article titled:*
 
-***Forest stand simulations in the cloud: use of the IBERO growth model in the SIMANFOR Decision Support System***
+***SIMANFOR cloud Decision Support System: structure, content, and applications ***
 
 ---
 
-# Forest stand simulations in the cloud: use of the IBERO growth model in the SIMANFOR Decision Support System 
+# SIMANFOR cloud Decision Support System: structure, content, and applications 
 
 :open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/713296626.svg)](https://zenodo.org/doi/10.5281/zenodo.12772484)
 
