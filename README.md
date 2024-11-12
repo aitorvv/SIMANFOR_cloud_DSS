@@ -1,4 +1,4 @@
-# SIMANFOR cloud DSS
+## SIMANFOR cloud DSS
 
 *A repository with the original data, code and results of the scientific article titled:*
 
@@ -10,11 +10,16 @@
 
 :open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/713296626.svg)](https://zenodo.org/doi/10.5281/zenodo.12772484)
 
+📜 Manuscript DOI: https://doi.org/10.1016/j.ecolmodel.2024.110912 
+
 ---
 
 ## :book: Abstract
 
-Abstract: 
+Technological progress in the last decades has driven great advances in many fields of knowledge. A wide range of tools and services are now available and constantly evolving to handle vast amounts of available data as well as the increased complexity of real-world case studies and analytical alternatives. Most sectors have embraced new methodologies to provide solutions to their problems, and the forestry sector is no exception. Important steps have been taken to update the forestry sector and introduce new large-scale experimental designs, digital tools and more extensive forestry databases. However, assimilation of this progress by forest managers remains largely pending. The more specialized technical knowledge and computing skills required to use this new generation of tools constitutes a known barrier to uptake. In this work, we present the SIMANFOR cloud-based Decision Support System service for simulating forest management alternatives. Its evolution, internal structure and potential applications are described. A case study was developed to demonstrate simulator performance under diverse management scenarios and highlight the benefits of this tool for forest managers. SIMANFOR cloud services are free and can be accessed at www.simanfor.es.
+
+![ga](./4_figures/graphical_abstract.jpg)
+
 
 ---
 
